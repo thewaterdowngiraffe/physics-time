@@ -1,0 +1,36 @@
+#define PI 3.141592654
+
+int circularmotion(){
+int kenimatics(){
+    float Fu,M,a,N,angle;
+    int x,y;
+    printf("whats missing\n");
+    printf("|   1   |   Fu  |   m/s     |\n");
+    printf("|   2   |   M   |   m/s     |\n");
+    printf("|   3   |   a   |   m/ss    |\n");
+    printf("|   4   |   N   |   s       |\n");
+    printf("|   5   | angle |  degree   |\n");
+    scanf("%d%d",&x,&y);
+    printf("input the following:\n");
+    if (x != 1 && y != 1){
+        printf("Fu:") ;
+        scanf("%f",&v1);}
+    if (x != 2 && y != 2){
+        printf("M:") ;
+        scanf("%f",&v2);}
+    if (x != 3 && y != 3){
+        printf("a:") ;
+        scanf("%f",&a);}
+    if (x != 4 && y != 4){
+        printf("N:") ;
+        scanf("%f",&t);}
+    if (x != 5 && y != 5){
+        printf("angle:") ;
+        scanf("%f",&d);}
+        
+        
+        if(x == 4 && y == 5)
+        
+        
+        
+}
