@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1586211233 source:c:\users\kandr_58v7rrf\onedrive\desktop\new folder (4)\practice\physics time\kenimatics.c
+	<math.h>
+	<stdio.h>
+
+1582670554 source:c:\users\kandr_58v7rrf\onedrive\desktop\new folder (4)\practice\physics time\airplanenavigation.c
+
+1585189469 source:c:\users\kandr_58v7rrf\onedrive\desktop\new folder (4)\practice\physics time\physicstime.c
+
+1583776027 source:c:\users\kandr_58v7rrf\onedrive\desktop\new folder (4)\practice\physics time\circularmotion.c
+
+1583866785 source:c:\users\kandr_58v7rrf\onedrive\desktop\new folder (4)\practice\physics time\boxonaslope.c
+
+1585192036 source:c:\users\kandr_58v7rrf\onedrive\desktop\new folder (4)\practice\physics time\lanchedoffaramp.c
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+
+1585189393 source:c:\users\kandr_58v7rrf\onedrive\desktop\new folder (4)\practice\physics time\lanchedoffaramp.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+
